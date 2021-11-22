@@ -106,7 +106,7 @@ FROM population_vaccinated_rate
 ORDER BY location, date
 
 
-View for visualizations
+--View for visualizations
 Drop view if exists pop_vac_rate
 CREATE VIEW pop_vac_rate
 as
