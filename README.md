@@ -2,12 +2,12 @@
 
 ## Overview
 This repository contains following resources
-- COVID19 death and vaccination datasets
+- COVID-19 death and vaccination dataset
 - Dashboard 
 
 
 ## Dataset
-- You can download the COVID19 dataset from [link](https://ourworldindata.org/covid-deaths)
+- You can download the COVID-19 dataset from [link](https://ourworldindata.org/covid-deaths)
 
 ## Dashboard
 below is the screenshot of the dashboard
